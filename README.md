@@ -1,26 +1,28 @@
-🚀 Hi, I’m Jos Prins (@prinscode)!
+# 🚀 Hi, I'm Jos Prins (@prinscode)!
 
-I’m a Full-Stack Developer with a strong focus on frontend development and performance optimization. I specialize in building high-performance web applications that deliver seamless user experiences. I love exploring new technologies and staying ahead in modern web development.
+I'm a Software Developer specializing in **Vue 2 → Vue 3 migrations**. I help teams upgrade their Vue codebases safely and efficiently — minimizing downtime, avoiding breaking changes, and modernizing legacy apps without a full rewrite.
 
-💡 What I Do:
-- 💻 Frontend Focus – Most experienced in Vue.js, also skilled in React.js, Next.js, TypeScript, Sass, and TailwindCSS
--	⚡ Performance Optimization – Passionate about making web apps fast, efficient, and scalable
--	🎨 Styling & UI – Strong skills in Sass, TailwindCSS, and UI/UX best practices
--	⚙️ Backend Skills – Experienced with Node.js, PHP (Symfony & Laravel), and MySQL
--	🚀 Always Exploring – Love diving into new frameworks and technologies
+## 🎯 My Niche: Vue 2 to Vue 3 Migrations
+Struggling with an outdated Vue 2 app? I help you migrate to Vue 3 — Composition API, new reactivity system, updated tooling — with a clear, low-risk plan tailored to your codebase.
 
-🌱 Currently Learning:
--	🔥 Next.js – Mastering advanced features & performance tuning
+## 💡 What I Do
+- 🔄 **Vue 2 → Vue 3 Migrations** – Composition API, Options API compatibility, breaking change audits
+- 💻 **Frontend Development** – Vue.js (my strongest stack), React.js, Next.js, TypeScript, Sass, TailwindCSS
+- ⚡ **Performance Optimization** – Fast, efficient, scalable web apps
+- 🎨 **Styling & UI** – Sass, TailwindCSS, UI/UX best practices
+- ⚙️ **Backend Skills** – Node.js, PHP (Symfony & Laravel), MySQL
 
-💞️ Looking to Collaborate On:
--	Exciting projects that push the boundaries of frontend performance
--	Innovative web applications with a strong focus on speed and UX
+## 🧑‍💻 Available For
+- Freelance Vue 2 → Vue 3 migration projects
+- Legacy codebase modernization
+- Frontend performance audits & optimization
 
-📫 How to Reach Me:
--	🏡 Website/Portfolio: Coming soon
--	📬 Email: jco.prins@me.com
--	💼 LinkedIn: https://www.linkedin.com/in/jos-prins-bba29621/
+## 🌱 Currently Working On
+🤖 Exploring AI frameworks like OpenClaw and Hermes
 
-⚡ Fun Facts About Me:
--	☕ Strong coffee, strong code
-- 🚀 Always testing out new frameworks and technologies
+## 📫 How to Reach Me
+- 🏡 **Website/Portfolio:** Coming soon
+- 📬 **Email:** jco.prins@me.com
+- 💼 **LinkedIn:** [linkedin.com/in/jos-prins-bba29621](https://www.linkedin.com/in/jos-prins-bba29621/)
+
+☕ Strong coffee, strong code
