@@ -14,9 +14,10 @@ A local-first Vue application for planning, running and analysing strength worko
 - Versioned, validated and transactional import/export
 - Tested training analytics and personal-record detection
 - Desktop/mobile journeys with automated accessibility and performance budgets
+- Repeatable production audit: Lighthouse 100s on desktop and 97/100/100/100 on mobile, with a 2.41 s LCP
 - Architecture decisions documented alongside their trade-offs
 
-[View the repository](https://github.com/prinscode/gym-tracker) · [Read the v1.0.0 release](https://github.com/prinscode/gym-tracker/releases/tag/v1.0.0)
+[View the repository](https://github.com/prinscode/gym-tracker) · [Review the quality evidence](https://github.com/prinscode/gym-tracker/pull/8) · [Read the v1.0.1 release](https://github.com/prinscode/gym-tracker/releases/tag/v1.0.1)
 
 ## Applied AI and data products
 
